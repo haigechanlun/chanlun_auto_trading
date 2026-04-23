@@ -51,9 +51,15 @@
 
 > ⚠️ 注：历史回测不代表未来收益，市场具有不确定性
 
+![eth一年回测](./backtesting/eth.png)
+![eth夏普率](./backtesting/report.png)
+
 ---
 
-## 🧠 系统架构
 
-```text
-Market Data → Chanlun Engine → Signal Generator → Risk Engine → Execution Engine
+### 联系海哥
+- telegram: http://t.me/haigechanlun
+- 公众号：海哥缠论
+- 推特：https://x.com/haigechanlun666
+- 微信：roganwu32 
+![eth一年回测](./images/haige.png)
