@@ -1,8 +1,8 @@
-# chanlun_auto_trading
-
 # 📈 Chanlun Quant Trading System
 
 一个基于缠论（Chanlun）理论构建的自动化量化交易系统，结合历史数据训练、严格风控与实盘执行，致力于实现稳定且可持续的收益表现。
+
+回测收益年化80%+！欢迎订阅信号和实盘测试。
 
 ---
 
@@ -57,7 +57,7 @@
 ---
 
 
-### 联系海哥
+### 联系海哥 （订阅信号&实盘对接测试）
 - telegram: http://t.me/haigechanlun
 - 公众号：海哥缠论
 - 推特：https://x.com/haigechanlun666
