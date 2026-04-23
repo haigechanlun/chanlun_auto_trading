@@ -63,3 +63,9 @@
 - 推特：https://x.com/haigechanlun666
 - 微信：roganwu32 
 ![eth一年回测](./images/haige.png)
+
+### 实盘对接流程
+- 注册新账号推荐gate交易所，注册链接：https://www.gatenode.xyz/share/VVNAULXZAG  邀请码：VVNAULXZAG
+- 开通合约api读取和交易权限把key给我们
+- 转账到合约账户
+
