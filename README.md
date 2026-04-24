@@ -67,7 +67,18 @@
 ![eth夏普率](./backtesting/report.png)
 
 ---
+
 ### 常用技术分析信号监控
 - [td 迪马克序列、神奇九转](./monitor/td.py)
-  - td实战教程:https://mp.weixin.qq.com/s/5A8oKSIA0tQN8OAsDdtKiQ
+- td实战教程:https://mp.weixin.qq.com/s/5A8oKSIA0tQN8OAsDdtKiQ
 
+---
+
+### k线行情
+- 采用binance数据源 [代码实现](./data/binance_api.py)
+
+---
+
+### 实盘交易
+- 支持binance、okx、gate、weex
+- 以gate api为例，[代码实现](./trade/gate/trade.py)
