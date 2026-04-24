@@ -1,0 +1,15 @@
+python-binance
+pandas
+numpy
+ta
+xgboost
+scikit-learn
+matplotlib
+ta-lib
+ccxt
+gate-api
+seaborn
+lightgbm
+imblearn
+okx
+tabulate
