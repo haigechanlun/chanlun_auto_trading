@@ -68,6 +68,6 @@
 
 ---
 ### 常用技术分析信号监控
-- td 迪马克序列、神奇九转 (./monitor/td.py)
+- td 迪马克序列、神奇九转 ![td](./monitor/td.py)
   - td使用教程:https://mp.weixin.qq.com/s/5A8oKSIA0tQN8OAsDdtKiQ
 
