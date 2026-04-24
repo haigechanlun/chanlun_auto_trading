@@ -4,6 +4,18 @@
 
 回测收益年化80%+！欢迎订阅信号和实盘测试。
 
+### 联系海哥 （订阅信号&实盘对接测试）
+- telegram: http://t.me/haigechanlun
+- 公众号：海哥缠论
+- 推特：https://x.com/haigechanlun666
+- 微信：roganwu32 
+![eth一年回测](./images/haige.png)
+
+### 实盘对接流程
+- 注册新账号推荐gate交易所，注册链接：https://www.gatenode.xyz/share/VVNAULXZAG  邀请码：VVNAULXZAG
+- 开通合约api读取和交易权限把key给我们
+- 转账到合约账户
+
 ---
 
 ## 🚀 核心特性
@@ -55,17 +67,7 @@
 ![eth夏普率](./backtesting/report.png)
 
 ---
-
-
-### 联系海哥 （订阅信号&实盘对接测试）
-- telegram: http://t.me/haigechanlun
-- 公众号：海哥缠论
-- 推特：https://x.com/haigechanlun666
-- 微信：roganwu32 
-![eth一年回测](./images/haige.png)
-
-### 实盘对接流程
-- 注册新账号推荐gate交易所，注册链接：https://www.gatenode.xyz/share/VVNAULXZAG  邀请码：VVNAULXZAG
-- 开通合约api读取和交易权限把key给我们
-- 转账到合约账户
+### 常用技术分析信号监控
+- td 迪马克序列、神奇九转 (./monitor/td.py)
+  - td使用教程:https://mp.weixin.qq.com/s/5A8oKSIA0tQN8OAsDdtKiQ
 
