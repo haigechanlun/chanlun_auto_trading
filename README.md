@@ -82,3 +82,14 @@
 ### 实盘交易
 - 支持binance、okx、gate、weex
 - 以gate api为例，[代码实现](./trade/gate/trade.py)
+
+---
+
+### 开源策略（策略仅供参考，实盘有风险）
+- MACD背驰 + TD信号动态加仓、减仓策略
+  - [实现代码](./strategy/live_trading_macd_td.py)
+  - [回测代码](./strategy/backtest_macd_td.py)
+  - ![最近10天回测数据](./backtesting/macd_td.png)
+  - ![最近10天回测统计](./backtesting/macd_td_report.png)
+
+ 
