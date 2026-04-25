@@ -89,7 +89,8 @@
 - MACD背驰 + TD信号动态加仓、减仓策略
   - [实现代码](./strategy/live_trading_macd_td.py)
   - [回测代码](./strategy/backtest_macd_td.py)
+  - 最近10天回测数据：
   - ![最近10天回测数据](./backtesting/macd_td.png)
   - ![最近10天回测统计](./backtesting/macd_td_report.png)
 
- 
+
