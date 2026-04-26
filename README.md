@@ -12,7 +12,9 @@
 ![eth一年回测](./images/haige.png)
 
 ### 实盘对接流程
-- 注册新账号推荐gate交易所，注册链接：https://www.gatenode.xyz/share/VVNAULXZAG  邀请码：VVNAULXZAG
+- 注册新账号
+  - gate交易所，注册链接：https://www.gatenode.xyz/share/VVNAULXZAG  邀请码：VVNAULXZAG
+  - okx交易所，注册链接：https://www.vmutkhamuut.com/join/5032833 邀请码：5032833
 - 开通合约api读取和交易权限把key给我们
 - 转账到合约账户
 
