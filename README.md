@@ -81,7 +81,8 @@
 
 ### 实盘交易
 - 支持binance、okx、gate、weex
-- 以gate api为例，[代码实现](./trade/gate/trade.py)
+- gate交易所 [代码实现](./trade/gate/trade.py)
+- okx交易所 [代码实现](./trade/okx/trade.py)
 
 ---
 ### 核心策略
