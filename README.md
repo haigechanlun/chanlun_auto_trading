@@ -14,6 +14,10 @@
 
 回测收益年化 80%+。欢迎订阅信号和实盘测试。
 
+### 官方网站
+
+海哥缠论官网：[https://haigechanlun.com/](https://haigechanlun.com/) — 缠论结构化视角、纪律与风控、量化落地（回测 · 实盘 · 监控），以及个人主页与社群入口。
+
 ### 联系海哥（订阅信号 & 实盘对接测试）
 
 - Telegram: [http://t.me/haigechanlun](http://t.me/haigechanlun)
@@ -114,6 +118,10 @@
 An automated quantitative trading system built on **Chanlun** (缠论) theory, combining historical data training, strict risk control, and live execution for stable, sustainable performance.
 
 Backtests show **80%+ annualized** returns. Signal subscription and live testing are welcome.
+
+### Official website
+
+**Haige ChanLun** — [https://haigechanlun.com/](https://haigechanlun.com/): structured Chanlun, risk discipline, full quant loop (backtest · live · monitoring), profile, and community links.
 
 ### Contact (signals & live onboarding)
 
